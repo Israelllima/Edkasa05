@@ -1,0 +1,15 @@
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\bin\Debug\net6.0\Edka.Sa05.exe
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\bin\Debug\net6.0\Edka.Sa05.deps.json
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\bin\Debug\net6.0\Edka.Sa05.runtimeconfig.json
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\bin\Debug\net6.0\Edka.Sa05.dll
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\bin\Debug\net6.0\Edka.Sa05.pdb
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\obj\Debug\net6.0\Edka.Sa05.csproj.AssemblyReference.cache
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\obj\Debug\net6.0\Edka.Sa05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\obj\Debug\net6.0\Edka.Sa05.AssemblyInfoInputs.cache
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\obj\Debug\net6.0\Edka.Sa05.AssemblyInfo.cs
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\obj\Debug\net6.0\Edka.Sa05.csproj.CoreCompileInputs.cache
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\obj\Debug\net6.0\Edka.Sa05.dll
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\obj\Debug\net6.0\refint\Edka.Sa05.dll
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\obj\Debug\net6.0\Edka.Sa05.pdb
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\obj\Debug\net6.0\Edka.Sa05.genruntimeconfig.cache
+C:\Users\Israel\Desktop\Edka\Edka.Sa05\obj\Debug\net6.0\ref\Edka.Sa05.dll
